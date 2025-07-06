@@ -5,7 +5,7 @@ This repository includes the CAD (.step), code (.ino), and printing (STL) files 
 
 The CAD and code for the remote control can be found in its own repository at https://github.com/JoshuaStanleyRobotics/Robot-Remote
 
-A video outlining the design and assembly of Toe can be found here: 
+A video outlining the design and assembly of Toe can be found here: https://youtu.be/IZsmQFUxbzw
 
 ## Components
 Toe uses the custom MicroBot Control Board and Voltage Regulator. The design files for these PCBs can be found in their own repository at https://github.com/JoshuaStanleyRobotics/MicroBot
